@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- 💫 About Me:
+ 💫 About Me: <br>
  🔭 I’m currently working on Full Stack MERN Project<br>
  👯 I’m looking to collaborate on On Web-Development Projects <br>
  🌱 I’m currently learning Next.js<br>
