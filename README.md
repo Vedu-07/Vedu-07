@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vedant Swami</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-<img src="https://media.licdn.com/dms/image/D4D12AQEwYz74Mf7XKA/article-cover_image-shrink_600_2000/0/1677431973169?e=2147483647&v=beta&t=XAXpJxyem6V0COVr2qwSxPLctoigzjSXhAa4PSHczMI" alt="Gif"/>
+<div class = "text-center"><img src="https://media.licdn.com/dms/image/D4D12AQEwYz74Mf7XKA/article-cover_image-shrink_600_2000/0/1677431973169?e=2147483647&v=beta&t=XAXpJxyem6V0COVr2qwSxPLctoigzjSXhAa4PSHczMI" alt="Gif"/></div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedu-07&label=Profile%20views&color=0e75b6&style=flat" alt="vedu-07" /> </p>
 
