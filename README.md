@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vedant Swami</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">A Passionate Software Developer from India</h3>
 
 <p align = "center"><img src="https://media.licdn.com/dms/image/D4D12AQEwYz74Mf7XKA/article-cover_image-shrink_600_2000/0/1677431973169?e=2147483647&v=beta&t=XAXpJxyem6V0COVr2qwSxPLctoigzjSXhAa4PSHczMI" alt="Gif"/></p>
 
