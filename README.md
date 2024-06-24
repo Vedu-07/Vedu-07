@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **MERN Stack**
 
-- 📫 How to reach me **vedantswami02@gmail.com**
+- 📫 Contact Me : **vedantswami02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
