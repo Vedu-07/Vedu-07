@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Full Stack MERN Project**
 
-- 🌱 I’m currently learning **DSA in C++ & Next.js Little Bit Web3**
+- 🌱 I’m currently learning **DSA in C++ & Next.js & Little Bit Web3**
 
 - 👯 I’m looking to collaborate on **Web-Develoment Related Projects**
 
