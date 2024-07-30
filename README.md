@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Full Stack MERN Project**
 
-- :skull:I'm Interested In **Web3**
+- :skull: I'm Interested In **Web3**
 
 - 🌱 I’m currently learning **DSA in C++ & Next.js**
 
